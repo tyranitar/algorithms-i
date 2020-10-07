@@ -1,0 +1,7 @@
+slides
+practice
+data
+
+*.pyc
+*.exe
+*.obj
